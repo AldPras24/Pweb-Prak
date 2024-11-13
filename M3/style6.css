@@ -16,7 +16,7 @@
     height: 100px;
     background-color: lightblue;
     margin-top: 20px;
-    animation: slide 2s infinite;
+    animation: slide 3s infinite;
 }
 
 @keyframes slide {
